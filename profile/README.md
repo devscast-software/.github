@@ -1,9 +1,8 @@
-# Devscast Community
+# Devscast Software
 
 ![Community](https://github.com/devscast/.github/blob/master/profile/community.png?raw=true)
 
-Devscast, créée afin de mettre en place une communauté de développeurs compétents qui peuvent travailler ensemble pour résoudre des problèmes sociaux à grande échelle. 
-
+Chez Devscast Software, nous nous consacrons à transformer vos idées en solutions numériques sur mesure.
 
 ## Suivez nous
 
