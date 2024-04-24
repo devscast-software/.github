@@ -7,13 +7,4 @@ Devscast, créée afin de mettre en place une communauté de développeurs comp�
 
 ## Suivez nous
 
-[![Check out devscast's profile on stardev.io](https://stardev.io/developers/devscast/badge/languages/country.svg)](https://stardev.io/developers/devscast)
-
-Nous sommes sur les médias sociaux:
-
-- [devscast_org](https://twitter.com/devscast_org) sur Twitter. Vous devriez le suivre.
-- [Devscast Community](https://www.linkedin.com/company/devscast-community/) sur LinkedIn
-- [devscast_org](https://www.instagram.com/devscast_org/) sur Instagram.
-- [devscast.org](https://web.facebook.com/devscast.org/) sur Facebook.
-- [devscast.org](https://tiktok.com/devscast_org/) sur Tiktok.
-- [devscast_org](https://www.youtube.com/@devscast_org) sur Youtube.
+- [Devscast Community](https://www.linkedin.com/company/devscast-software/) sur LinkedIn
