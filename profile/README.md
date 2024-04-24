@@ -1,6 +1,6 @@
 # Devscast Software
 
-![Community](https://github.com/devscast/.github/blob/master/profile/community.png?raw=true)
+![Community](https://github.com/devscast-software/.github/blob/master/profile/og-image.png?raw=true)
 
 Chez Devscast Software, nous nous consacrons à transformer vos idées en solutions numériques sur mesure.
 
